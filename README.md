@@ -7,9 +7,9 @@ We would like to study and make an analysis using Data in IRS to perform explora
 We take Data driven of IRS from https://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-ZIP-Code-Data- (SOI).  
 Our initial aim is to pull data from the IRS link above using that we would like to create a web app where a user can retrieve the trend in property values (gentrification) using zip code throughout the years . 
 # RESEARCH QUESTIONS 
-As our research paper would state research points we would like to consider and retrieve the trend in property values (gentrification) using zip code throughout the years by removing the unwanted bits from the data by cleaning it. 
-We would like to do research and show zip codes that has generated the revenue gain or loss.
-Which zip codes have greater percentage of share with Higher AGI's.
+As our research paper would state research points we would like to consider and retrieve the trend in property values (gentrification) using zip code throughout the years by removing the unwanted bits from the data by cleaning it . 
+We would like to do research and show zip codes that has generated the revenue gain or loss .
+Which zip codes have greater percentage of share with Higher AGI's .
 # MODELS AND ANALYSIS 
 We are planning our models and preliminary analyses will be performed in a Jupyter Notebook and development in python. 
   
