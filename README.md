@@ -37,5 +37,7 @@ We are team of three, Vinay Kumar Katakam, Uday Kirshna Reddy Vinjamuri and Akhi
 |Checkpoint Deliverable|	Using Data in IRS to perform exploratory analysis on Zip code and AGI data.|
 |Responsible Team Members|	VINAY KUMAR, UDAY KIRSHNA REDDY, AKHILA PRIYA|
 |Checkpoint Results|	Checkpoint-1 reached.|
-
+| 4/11/16 | Complete the coding and simultaneous testing will be done by group all the group members to ensure the quality of the result  | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri ,Akhilapriya Chilukuri  |                      |
+| 4/17/16 | Finalize the testing phase and check the results and submit for feedback | Uday Vinjamuri,Akhilapriya Chilukuri  |           |
+| 4/25/16 | Present a final report of the project  |  |444Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri ,Akhilapriya Chilukuri       |
 
