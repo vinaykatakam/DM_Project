@@ -32,10 +32,19 @@ We are team of three, Vinay Kumar Katakam, Uday Kirshna Reddy Vinjamuri and Akhi
  
 
 ## DELIVERABLES AND CHECKPOINTS
-|Checkpoint Date|	02/14/2016|
-|---------------|-----------------------------------------------------------------------------------|
-|Checkpoint Deliverable|	Using Data in IRS to perform exploratory analysis on Zip code and AGI data.|
-|Responsible Team Members|	VINAY KUMAR, UDAY KIRSHNA REDDY, AKHILA PRIYA|
-|Checkpoint Results|	Checkpoint-1 reached.|
+
+
+| Checkpoint date and due date| Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
+|---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|2/14/16| Using twitter to see the trends on usage of programming languages.  | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri   | Meets project proposal check point |
+|3/15/16 |Updated the research questions ,data section and  In a process of creating a streaming script which collects data from twitter because as you know twitter has a limitation on number of request you make per day. 2. Twitter data contains information that is not useful for sentiment analysis.3. Using the API http://textprocessing.com/api/sentiment to see if initial results match our criteria.| Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri  |                      |
+| 3/20/16 | Will upload the complete data set and intital project code .Will also answer/update the research question depending upon the results seen in initial analysis | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri  |                      |
+| 4/3/16 | Complete the coding and simultaneous testing will be done by group all the group members to ensure the quality of the result  | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri  |                      |
+| 4/17/16 | Finalize the testing phase and check the results and submit for feedback | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri  |           |
+| 4/25/16 | Present a final report of the project  | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri  |           |
+
+
+
+
 
 
