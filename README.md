@@ -44,7 +44,12 @@ We are team of three, Vinay Kumar Katakam, Uday Kirshna Reddy Vinjamuri and Akhi
 | 4/25/16 | Present a final report of the project  | Vinay Kumar Katakam ,Uday Kirshna Reddy Vinjamuri , Akhila Priya Chilukuri  |           |
 
 
+## CHECKPOINT-4 Update
 
+We have completed the Predicting clusters of whole US using the K-means model prediction from the last checkpoint that we have completed and we did plot the results for agi_stub to ppm (percapita mortgage intrest payments) and moratgage interest / total returns in the state in particular agi..shown in the results .That completes our project and further we    are in a process of updating/make corrections  in the project proposal and document all the aspects of outputs/results form our analysis .
+
+
+​
 
 
 
