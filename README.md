@@ -50,6 +50,8 @@ We have completed the Predicting clusters of whole US using the K-means model pr
 
 
 ​
+## FINAL UPDATE
 
+We are done with the project work and uploaded the relevent files in github and uploaded the whole project in google drive.
 
 
